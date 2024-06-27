@@ -1,16 +1,22 @@
+---
+title: My First Page
+layout: default
+---
+
 # Welcome to ReDI's Full Stack Bootcamp 🚀
 
 ![Full Stack Bootcamp Banners](https://github.com/ReDI-School/fullstack_bootcamp/assets/51905839/36b1fd93-be54-4718-bde0-898c71d4c82c)
 
-> Here you can find an overview of the ReDI Full Stack bootcamp projects. The repo contains four projects which are at the core of this bootcamp. 
+> Here you can find an overview of the ReDI Full Stack bootcamp projects. The repo contains four projects which are at the core of this bootcamp.
 
 - Are you a new volunteer? Take a look at our [Volunteer Guide](https://github.com/ReDI-School/fullstack_bootcamp/tree/main/volunteers) for some practical tips on how to get started!
 - Are you a new student? Be sure to get started with our [Welcome Guide](https://github.com/ReDI-School/fullstack_bootcamp/blob/main/welcome.md) to see how to prepare for your first session and beyond!
 
-## The Bootcamp 
-ReDI's Full Stack Bootcamp is a part-time (20 hours per week) bootcamp lasting for 18 months. It has a strong focus on front end and gives an introduction to back end elements. The goal is to support participants prepare for an internship in the industry. 
+## The Bootcamp
 
-Our learning approach builds on learning by doing. Students work on three hands-on projects throughout the bootcamp. Each project lasts 4 weeks and contains 3 Milestones plus a Bonus Milestone. We aim to be as close as possible to a real work environment where juniors receive deliverables, work on them, run into issues, seek support and present their solutions to seniors. Students work in peer to peer sessions, in small groups with coaches and in input sessions with experts. However, the majority of the workload is the actual project work where students individually progress their project by working on the weekly milestone. 
+ReDI's Full Stack Bootcamp is a part-time (20 hours per week) bootcamp lasting for 18 months. It has a strong focus on front end and gives an introduction to back end elements. The goal is to support participants prepare for an internship in the industry.
+
+Our learning approach builds on learning by doing. Students work on three hands-on projects throughout the bootcamp. Each project lasts 4 weeks and contains 3 Milestones plus a Bonus Milestone. We aim to be as close as possible to a real work environment where juniors receive deliverables, work on them, run into issues, seek support and present their solutions to seniors. Students work in peer to peer sessions, in small groups with coaches and in input sessions with experts. However, the majority of the workload is the actual project work where students individually progress their project by working on the weekly milestone.
 
 ## Overview
 
@@ -30,14 +36,15 @@ If you follow the program you'll learn the following skills:
 - How to use `third-party libraries/APIs`
 - Have a basic understanding of what it means to work on digital products
 
-
 ## 1. Project: HTML & CSS
+
 ![HTML](https://github.com/ReDI-School/fullstack_bootcamp/assets/51905839/d7e112a8-a18b-4dd6-b3cb-169b67e7ff6d)
 
-Welcome to your Bootcamp. In your first project you will learn the basics of HTML and CSS. You will write your first HTML page, and style is with CSS by using in your IDE. In particular, you will build an e-commerce with three pages: home, electronics, and clothing categories. 
+Welcome to your Bootcamp. In your first project you will learn the basics of HTML and CSS. You will write your first HTML page, and style is with CSS by using in your IDE. In particular, you will build an e-commerce with three pages: home, electronics, and clothing categories.
 
 **Learning Goals:**
 By the end of this module, you should have a familiarity with and basic understanding of the following:
+
 - `Git & GitHub`: Understanding version control, basic commands, and repository management.
 - `CLI` (Command Line Interface): Basic navigation and commands.
 - `HTML` elements and tags: Structure of HTML documents, commonly used tags.
@@ -49,8 +56,8 @@ By the end of this module, you should have a familiarity with and basic understa
 
 **Link to Project: [01_ecommerce](https://github.com/ReDI-School/fullstack_bootcamp/tree/main/projects/01_ecommerce)**
 
-
 ## 2. Project: Javascript
+
 ![JS](https://github.com/ReDI-School/fullstack_bootcamp/assets/51905839/574f5fa3-6209-4a6b-92bf-e82a8da0f07b)
 
 Deep dive into JavaScript, covering everything from variables and loops to complex concepts like DOM manipulation, asynchronous coding, and error handling. You’ll become proficient in crafting interactive and dynamic web applications.
@@ -73,15 +80,15 @@ By the end of this module, you should have a familiarity with and basic understa
 
 **Link to Project: [02_javascript](https://github.com/ReDI-School/fullstack_bootcamp/tree/main/projects/02_javascript)**
 
-
-
 ## 3. Project: React
+
 ![REACT](https://github.com/ReDI-School/fullstack_bootcamp/assets/51905839/1b14fb79-3ffc-46c5-94c2-7bd44b7e140d)
 
 Deep dive into JavaScript, covering everything from variables and loops to complex concepts like DOM manipulation, asynchronous coding, and error handling. You’ll become proficient in crafting interactive and dynamic web applications.
 
 **Learning Goals:**
 By the end of this module, you should have a familiarity with and basic understanding of the following:
+
 - `Single Page Application`: Understanding SPA architecture.
 - React from zero with `Vite`: Setting up a React project using Vite.
 - Thinking in `React`: Core principles and concepts.
@@ -100,14 +107,15 @@ By the end of this module, you should have a familiarity with and basic understa
 
 **Link to Project: [03_react](https://github.com/ReDI-School/fullstack_bootcamp/tree/main/projects/03_react)**
 
-
 ## 4. Project: Career Preparation
+
 ![CAREER](https://github.com/ReDI-School/fullstack_bootcamp/assets/51905839/f19035a3-e624-4258-b90a-0936f661423b)
 
 In the final project, you create a powerful LinkedIn profile, CV, and portfolio, work on a case study, and learn how to apply for your first job.
 
 **Learning Goals:**
 By the end of this module, you should have a familiarity with and basic understanding of the following:
+
 - `LinkedIn`: Create and optimize a LinkedIn profile based on industry feedback.
 - `CV`: Update and refine CV with professional feedback.
 - `Professional Identity`: Sharpen and articulate a clear professional identity.
@@ -117,29 +125,30 @@ By the end of this module, you should have a familiarity with and basic understa
 
 **Link to Project: [04_career](https://github.com/ReDI-School/fullstack_bootcamp/tree/main/projects/04_career)**
 
-
 ## Graduation! What's next?
-The final stage is graduation! You receive your certificate if you fulfill all requirements (you find the here: TBD). Now it is time to apply for internships, further improve your skill set and prepare for the job market. ReDI will assist you in this phase as well, but the responsibility is still on you. Check out our Talent Success Offers (LINK) for further support. 
 
-**Keep on Learning and Preparing:** Your journey towards a junior position is most likely not over yet. We encourage you to further sharpen our skills for the job profile you aim for. We will share further projects and resources you can use to continue preparing for your career while you apply. 
+The final stage is graduation! You receive your certificate if you fulfill all requirements (you find the here: TBD). Now it is time to apply for internships, further improve your skill set and prepare for the job market. ReDI will assist you in this phase as well, but the responsibility is still on you. Check out our Talent Success Offers (LINK) for further support.
 
+**Keep on Learning and Preparing:** Your journey towards a junior position is most likely not over yet. We encourage you to further sharpen our skills for the job profile you aim for. We will share further projects and resources you can use to continue preparing for your career while you apply.
 
 ## Resources
-[ReDI School Website](https://www.redi-school.org/) - [Gitbook](https://redi-school-1.gitbook.io/fullstack) 
+
+[ReDI School Website](https://www.redi-school.org/) - [Gitbook](https://redi-school-1.gitbook.io/fullstack)
 
 ## Evaluation
-During the course of each project, coaches will individually monitor your work. Each week students finish one milestone. They receive feedback and support by Coaches in the Monday Coaching Session. However, the milestones are not evaluated. 
 
-Students hand in their project at the end of each project cycle. Relevant for the evaluation are the deliverables per milestone. Remember that the learning objectives are more important than the completeness of your project. 
+During the course of each project, coaches will individually monitor your work. Each week students finish one milestone. They receive feedback and support by Coaches in the Monday Coaching Session. However, the milestones are not evaluated.
+
+Students hand in their project at the end of each project cycle. Relevant for the evaluation are the deliverables per milestone. Remember that the learning objectives are more important than the completeness of your project.
 
 At the end of your project, you present your work to the coaches and will receive feedback. Before this session, you will need to reflect and self-evaluate against the learning objectives. In this feedback session, you will validate your self-evaluation with your coaches. If some objectives have not been met, the coaches may recommend to proceed to achieve the missing learning objectives, which could involve continuing with the current project (more time) or doing a complementary project. Remember that everyone learns at their own pace, and it is important to gradually acquire the skills associated with the learning objectives. Your coaches and peers are there to support you.
 
-
 ## Final words
+
 Mastering front end and full stack development is a challenging journey, but with the right resources and guidance, it's definitely achievable. This curriculum is designed to support your ambition. Feel free to use it to your advantage. If you find any areas for improvement, please let us know or contribute with a pull request. Best of luck on your path, and happy coding!
 
-
 ## Contributors
+
 A big thank you to everyone who is contributing to this repository. _We gradually add the contributors._
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -155,8 +164,8 @@ A big thank you to everyone who is contributing to this repository. _We graduall
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-
 ## Licence & Copyright
+
 ![image](https://github.com/ReDI-School/fullstack_bootcamp/assets/51905839/a33fe1ec-421e-48ce-a5c0-348cadce5248)
 
 ReDI's curriculum is subject to CC BY copyright. This means you can freely use our materials, but just make sure to give us credit for it :)
